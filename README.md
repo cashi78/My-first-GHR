@@ -1,2 +1,2 @@
-# My-first-GHR
-My first readme comment
+# HTML example
+My HTML page example
